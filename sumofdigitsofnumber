@@ -9,6 +9,6 @@ int main()
  s=s+d;
  n=n/10;
  }
- printf("sum of digits=%d",s);
+ printf("sum of digit=%d",s);
  return 0;
  }
